@@ -23,7 +23,7 @@ pip install seaborn
 
 ## Ejecutando las pruebas ⚙️
 
-![image text](...)
+![image text](https://github.com/Aixa98/Date-CDI/blob/master/detec-canceripynb-colaboratory-google-chrome-2022-04-02-11-33-15_b69yq3yF.gif)
 
 ## Construido con 🛠️
 
